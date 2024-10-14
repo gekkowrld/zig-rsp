@@ -1,0 +1,9 @@
+# This is more options
+-W0
+-Wall
+-Werror
+--verbose
+# end of list
+
+# This option(s) will be treated as one
+--release fast
